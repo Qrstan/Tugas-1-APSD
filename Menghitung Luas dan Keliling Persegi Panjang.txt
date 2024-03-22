@@ -1,0 +1,7 @@
+print ("program menghitung luas dan keliling persegi panjang")
+lebar=int(input("input lebar \t :"))
+panjang=int(input("input panjang \t :"))
+luas=panjang*lebar
+keliling=(2*panjang)+(2*lebar)
+print("luas persegi panjang \t : ",luas)
+print("keliling persegi panjang \t : ",keliling)
